@@ -1,0 +1,3 @@
+tasks:
+  - before: npm i firebase firebase-tools -g
+    init: npm install
